@@ -1,2 +1,7 @@
+# workshop
+This file is added in GitHub Server
 Code Update happened in 
 WRClone Branch
+Now, updated second time from Yelloline branch
+
+I have merged A+B+C,  also added new content ( Learned Merge)
